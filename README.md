@@ -27,7 +27,7 @@ Given a set of gene sequences, infer a tree that connects them by evolutionary r
 ## Files
 - `genealogy_dp_project.ipynb`  
   Full implementation, experiments, and plots.  
-- `cs110_genealogy_report.pdf`  
+- `Decoding the Relationships Between Genes.pdf`  
   Detailed writeup with proofs, complexity analysis, and discussion.
 
 ## How to run
